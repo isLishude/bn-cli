@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { start } = require("repl");
 const terminal = start({
   prompt: "> ",
