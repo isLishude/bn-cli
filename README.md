@@ -1,1 +1,8 @@
-# bn-cli
+# BigNumber.js CLI
+
+## Usage
+
+```
+npx islishude/bn-cli#master
+
+```
