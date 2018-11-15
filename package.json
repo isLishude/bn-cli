@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/isLishude/bn-cli#readme",
   "dependencies": {
-    "bignumber.js": "^7.2.1"
+    "bignumber.js": "^8.0.1"
   }
 }
