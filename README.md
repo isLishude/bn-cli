@@ -2,13 +2,12 @@
 
 ## Usage
 
-```
-npx islishude/bn-cli#master
-# e.g
-> const big = new bn("0xf")
-> big.toNumber(10);
-> big.toString(10);
+```console
+$ npx islishude/bn-cli#master
+> new BigNumber("2003528493491143929").div(1e18).toString()
+'2.003528493491143929'
 ```
 
 ## Document
+
 see http://mikemcl.github.io/bignumber.js

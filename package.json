@@ -4,21 +4,21 @@
   "description": "BigNumber.js cli",
   "main": "index.js",
   "scripts": {
-    "pub": "git push --all"
+    "start": "node index.js"
   },
-  "bin": "./index.js",
+  "bin": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/isLishude/bn-cli.git"
   },
   "keywords": [],
-  "author": "lishude@aliyun.com",
-  "license": "ISC",
+  "author": "lishude@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/isLishude/bn-cli/issues"
   },
   "homepage": "https://github.com/isLishude/bn-cli#readme",
   "dependencies": {
-    "bignumber.js": "^8.0.1"
+    "bignumber.js": "^9.0.0"
   }
 }
