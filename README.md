@@ -3,7 +3,7 @@
 ## Usage
 
 ```console
-$ npx islishude/bn-cli#master
+$ npx islishude/bn-cli#main
 > new BigNumber("2003528493491143929").div(1e18).toString()
 '2.003528493491143929'
 ```
